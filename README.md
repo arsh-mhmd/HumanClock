@@ -1,6 +1,6 @@
 # HumanClock
 
-## Objective 1 & 2 can be verified by Objective1_2.java, whereas HumanClock is a Spring Boot Rest API for Objective 3.
+### Objective 1 & 2 can be verified by Objective1_2.java, whereas HumanClock is a Spring Boot Rest API for Objective 3.
 
 ## How to Run Rest API
 
